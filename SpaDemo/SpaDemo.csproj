@@ -11,8 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="App\Build\" />
-    <Folder Include="App\Pages\" />
     <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
